@@ -1,4 +1,5 @@
-![the_matrix_binary-cut1](https://github.com/obimbasmart/obimbasmart/assets/67028610/be44504d-cb46-4b83-84b5-bd5380d058c9)
+![the_matrix_binary-cut1 (2)](https://github.com/obimbasmart/obimbasmart/assets/67028610/307e9c56-9457-475a-93ec-fcf24f47d811)
+
 
 ### Let's code the `cosmos` 👋
 
