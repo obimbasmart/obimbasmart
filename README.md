@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on building quality web apps that solves real problems for users
 - 🤔 I’m open to Junior Software Engineer roles and Internships opportunities
 - 📫 You can reach me on @obimbasmartchukwunenye@gmail.com
+- 😊 I love `Linux`
 <!--
 **obimbasmart/obimbasmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
