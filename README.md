@@ -3,7 +3,6 @@
 
 
 - 🌱 I write code that solves problems
-- ⚒️ Currently, working on an e-commerce platform: [QuickTailor], which connects skilled, verified tailors with customers, allowing for seamless transactions and order tracking
 - 🤔 I'm eager to collaborate on innovative projects and open to Software Engineer roles
 - 🔧 Tools and techs:
 -  `Linux`, `C`, `AWS`, `Puppet`
